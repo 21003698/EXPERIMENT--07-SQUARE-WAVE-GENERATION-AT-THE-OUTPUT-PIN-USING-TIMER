@@ -91,11 +91,11 @@ Step14. click on debug and simulate using simulation as shown below
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/b8efbfc2-f0c5-4106-8117-3a6e7ac87f6c)
 
 ## STM 32 CUBE PROGRAM :
-
+```
 Developed By:Challa Sandeep
 Reg.No: 212221240011.
-
-
+```
+```
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -361,10 +361,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-
-
-
-
+```
 ## Output screen shots of proteus  :
 ![fi](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/37ca1ece-79ce-48e4-a6d6-da8d9f276bbd)
 
@@ -372,15 +369,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![Screenshot 2023-05-27 155744](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/aa69b033-eb48-4540-ab12-97fd37056b1d)
 
-
 ![Screenshot 2023-05-27 160911](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/907153bb-7a4c-45a1-a41b-c05e5d50e37f)
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
 ![Screenshot 2023-05-31 135719](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/e1bab8e5-6fbd-4433-834f-e11e502bde60)
-
-
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ## FOR PULSE AT 500
